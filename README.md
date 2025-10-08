@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @RajArgha
-- 👀 I’m interested in ... Coding| Hacking| Shayeri 
+- 👀 I’m interested in ... Cloud | Hacking  
 - 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ...with me 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...Raj
-- ⚡ Fun fact: ... Watching Documentary 
+- 📫 How to reach me in Linkdin
+- ⚡ Fun fact: ... Watching Documentary Movie | Gaming 
 
 <!---
 RajArgha/RajArgha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
